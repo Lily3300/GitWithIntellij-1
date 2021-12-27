@@ -3,5 +3,6 @@ public class TestClass {
         System.out.println("test class");
         //gulistan add this
         //stream3 changing
+        //merging from stream3 not master
     }
 }
