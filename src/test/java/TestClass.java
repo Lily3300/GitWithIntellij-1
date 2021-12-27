@@ -5,5 +5,6 @@ public class TestClass {
         //stream3 changing
         //merging from stream3 not master
         //tring out squash and merge
+        //second squash
     }
 }
