@@ -4,5 +4,6 @@ public class TestClass {
         //gulistan add this
         //stream3 changing
         //merging from stream3 not master
+        //tring out squash and merge
     }
 }
